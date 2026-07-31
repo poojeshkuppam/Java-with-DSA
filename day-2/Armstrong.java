@@ -19,7 +19,6 @@ public class Armstrong {
             if (sum == num)
                 System.out.print(num + " ");
         }
-
         sc.close();
     }
 }
